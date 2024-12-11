@@ -1,7 +1,7 @@
 5 projects from Intermediate Java: 5 Projects course
 
-## Dice Rolling Simulator
-## Word-Guessing Game
+## [Dice Rolling Simulator](https://github.com/ersu-amine/IntermediateJava-5Projects/tree/master/src/com/aersu/dice)
+## Word-Guessing Game (in progress)
 ## Password Generator
 ## File Manager
 ## Weather Forecast Application
