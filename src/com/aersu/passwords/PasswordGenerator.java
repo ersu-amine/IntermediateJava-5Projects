@@ -31,7 +31,7 @@ public class PasswordGenerator {
         if(useSpecialChar){
             //add 1 letter from special character set
             password.append(SPECIALCHARS.charAt(random.nextInt(SPECIALCHARS.length())));
-            allChars.append(DIGITS);
+            allChars.append(SPECIALCHARS);
         }
 
         if(useNum){
@@ -42,13 +42,16 @@ public class PasswordGenerator {
 
         //check if password reached the desired length, iterate and add characters to password
         if (password.length()<length){
-            for (int i = 0; i < length-password.length(); i++) {
+            //store the current difference between the desired length and password length
+            int k = length-password.length();
+            for (int i = 0; i <k; i++) {
                 //add a character from pool of characters that user requested
                 password.append(allChars.charAt(random.nextInt(allChars.length())));
             }
         }
 
         //return String.valueOf(password);
+        System.out.println("password.length() = " + password.length());
         return password.toString();
     }
 
