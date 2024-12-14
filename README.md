@@ -2,7 +2,7 @@
 
 ## [Dice Rolling Simulator](https://github.com/ersu-amine/IntermediateJava-5Projects/tree/master/src/com/aersu/dice)
 ## [Word-Guessing Game](https://github.com/ersu-amine/IntermediateJava-5Projects/tree/master/src/com/aersu/wordgame)
-## Password Generator
+## [Password Generator](https://github.com/ersu-amine/IntermediateJava-5Projects/tree/master/src/com/aersu/passwords)
 ## File Manager
 ## Weather Forecast Application
 
