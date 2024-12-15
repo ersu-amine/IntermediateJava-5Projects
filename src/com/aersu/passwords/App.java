@@ -11,5 +11,7 @@ public class App {
                 userInterface.useNumbers(),
                 userInterface.useSpecialChar());
         userInterface.displayPassword(password);
+        //TODO implement try catch to prevent user requesting shorter password length than possible
+        //length 3, but said yes to all , cannot be less than 4 to have chars from each option set
     }
 }
