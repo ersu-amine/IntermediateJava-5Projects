@@ -4,8 +4,7 @@
 ## [Word-Guessing Game](https://github.com/ersu-amine/IntermediateJava-5Projects/tree/master/src/com/aersu/wordgame)
 ## [Password Generator](https://github.com/ersu-amine/IntermediateJava-5Projects/tree/master/src/com/aersu/passwords)
 ## [File Manager](https://github.com/ersu-amine/IntermediateJava-5Projects/tree/master/src/com/aersu/filemanager)
-## Weather Forecast Application
+## [Weather Forecast Application](https://github.com/ersu-amine/IntermediateJava-5Projects/tree/master/src/com/aersu/weather)
 
-My aim is to complete it by the end of the year, December 30th.
 
-<img src="https://i.pinimg.com/originals/8a/da/a5/8adaa53fc351b29c902b8887930e56b8.gif" >
+<img src="https://i.pinimg.com/originals/b9/e7/19/b9e719017084237d1406064dcdd6768a.gif" >
